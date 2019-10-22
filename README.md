@@ -1,17 +1,13 @@
 ﻿﻿# SANTERI  HEINOLA
 ## OHJELMOINNIN OPISKELIJA
-![Otsikkoteksti](src/omakuva.png "Omakuva")
 
-## Tehtävä 5 muutos
+[saa]: saaennuste.png
 
-[saa]: src/saaennuste.png
-![taulukko](taulukko.png "taulukko")
-
-[video]: src/truman.webm
+[video]: truman.webm
 
 ## HIEMAN ITSESTANI
 
- Olen toisen vuoden ohjelmoinnin opiskelija
+Olen toisen vuoden ohjelmoinnin opiskelija
 Hameen ammattikorkeakoulusta. Etsin kesatoita
 ohjelmointi alalta saadakseni lisaa
 kokemusta. Tulevan kesan aikana haluan oppia
