@@ -1,9 +1,9 @@
 ﻿﻿# SANTERI  HEINOLA
 ## OHJELMOINNIN OPISKELIJA
 
-[saa]: saaennuste.png
+[saa]: src/saaennuste.png
 
-[video]: truman.webm
+[video]: src/truman.webm
 
 ## HIEMAN ITSESTANI
 
