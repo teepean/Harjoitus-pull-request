@@ -2,6 +2,6 @@
 1) Luo Fork harjoitusympäristöstä https://github.com/TeroKeso/Harjoitus-pull-request
 2) Lataa paikallinen kopio tästä repositoriosta
 2) Valitse tiedosto, johon ryhdyt tekemään muutoksia
-3) Pull requst muutos takaisin minulle tähän repositorioon
+3) Pull request muutos takaisin minulle tähän repositorioon
 
 Valmis
